@@ -22,4 +22,5 @@ Thetic Engineering Ltd. is a UK automated test consultancy that specializes in t
 ### Contact
 
 Email: <hello@thetic.co>  
-Webiste: <https://thetic.co>
+Website: <https://thetic.co>  
+![thetic's logo](/resources/thetic_logo_web_xsmall.png)  
