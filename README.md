@@ -8,12 +8,12 @@ This repository contains course materials required to complete exercises and hom
 
 ## Repo Layout
 
-| Folder        | Purpose                                                                    |
-| :------------ | -------------------------------------------------------------------------- |
-| documentation | Test files which related to the setup of the course Windows installations. |
-| firmware      | Firmware files to convert a Raspberry Pi Pico into a instrument simulator. |
-| project       | The LabVIEW project used during the course, in version LabVIEW 2024Q3.     |
-| resources     | Images and other files required to render markdown in this repo            |
+| Folder                           | Purpose                                                                    |
+| :------------------------------- | -------------------------------------------------------------------------- |
+| [documentation](/documentation/) | Test files which related to the setup of the course Windows installations. |
+| [firmware](/firmware/)           | Firmware files to convert a Raspberry Pi Pico into a instrument simulator. |
+| [project](/project)              | The LabVIEW project used during the course, in version LabVIEW 2024Q3.     |
+| [resources](/resources)          | Images and other files required to render markdown in this repo            |
 
 ## About Thetic Engineering Ltd
 
