@@ -13,7 +13,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Session 01" Type="Folder">
-			<Item Name="demo" Type="Folder"/>
+			<Item Name="demo" Type="Folder">
+				<Property Name="NI.SortType" Type="Int">3</Property>
+				<Item Name="demo - first VI.vi" Type="VI" URL="../demo - first VI.vi"/>
+				<Item Name="demo - first VI with defaults.vi" Type="VI" URL="../demo - first VI with defaults.vi"/>
+			</Item>
 			<Item Name="homework" Type="Folder">
 				<Item Name="homework - formula xy graph.vi" Type="VI" URL="../homework - formula xy graph.vi"/>
 			</Item>
