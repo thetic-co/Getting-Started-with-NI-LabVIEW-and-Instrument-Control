@@ -22,6 +22,7 @@
 				<Item Name="demo - first VI with defaults.vi" Type="VI" URL="../demo - first VI with defaults.vi"/>
 				<Item Name="demo - niScope EX Simulated Acquisition.vi" Type="VI" URL="../demo - niScope EX Simulated Acquisition.vi"/>
 				<Item Name="demo - Simple Serial.vi" Type="VI" URL="../demo - Simple Serial.vi"/>
+				<Item Name="demo - Simple Serial with conversion.vi" Type="VI" URL="../demo - Simple Serial with conversion.vi"/>
 			</Item>
 			<Item Name="homework" Type="Folder">
 				<Item Name="homework - formula xy graph.vi" Type="VI" URL="../homework - formula xy graph.vi"/>
@@ -75,6 +76,7 @@
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
+				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
