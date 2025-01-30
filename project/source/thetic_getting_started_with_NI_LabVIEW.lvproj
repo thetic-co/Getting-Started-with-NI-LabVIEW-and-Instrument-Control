@@ -26,6 +26,7 @@
 			</Item>
 			<Item Name="homework" Type="Folder">
 				<Item Name="homework - formula xy graph.vi" Type="VI" URL="../homework - formula xy graph.vi"/>
+				<Item Name="timeseries.csv" Type="Document" URL="../timeseries.csv"/>
 			</Item>
 		</Item>
 		<Item Name="Session 02" Type="Folder"/>
