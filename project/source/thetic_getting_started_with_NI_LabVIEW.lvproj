@@ -15,9 +15,13 @@
 		<Item Name="Session 01" Type="Folder">
 			<Item Name="demo" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">3</Property>
+				<Item Name="controls" Type="Folder">
+					<Item Name="Serial - Settings.ctl" Type="VI" URL="../Serial - Settings.ctl"/>
+				</Item>
 				<Item Name="demo - first VI.vi" Type="VI" URL="../demo - first VI.vi"/>
 				<Item Name="demo - first VI with defaults.vi" Type="VI" URL="../demo - first VI with defaults.vi"/>
 				<Item Name="demo - niScope EX Simulated Acquisition.vi" Type="VI" URL="../demo - niScope EX Simulated Acquisition.vi"/>
+				<Item Name="demo - Simple Serial.vi" Type="VI" URL="../demo - Simple Serial.vi"/>
 			</Item>
 			<Item Name="homework" Type="Folder">
 				<Item Name="homework - formula xy graph.vi" Type="VI" URL="../homework - formula xy graph.vi"/>
@@ -99,12 +103,16 @@
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
+				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
+				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="niScope_32.dll" Type="Document" URL="niScope_32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="typedef - Serial Settings.ctl" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2024/examples/Instrument IO/Serial/support/typedef - Serial Settings.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
