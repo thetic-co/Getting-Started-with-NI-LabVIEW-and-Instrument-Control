@@ -35,6 +35,7 @@
 				<Item Name="demo - first while loop.vi" Type="VI" URL="../demo - first while loop.vi"/>
 				<Item Name="demo - tunnel while loop.vi" Type="VI" URL="../demo - tunnel while loop.vi"/>
 				<Item Name="demo - first for loop.vi" Type="VI" URL="../demo - first for loop.vi"/>
+				<Item Name="demo - shift register while loop.vi" Type="VI" URL="../demo - shift register while loop.vi"/>
 				<Item Name="demo - auto-index tunnel for loop.vi" Type="VI" URL="../demo - auto-index tunnel for loop.vi"/>
 				<Item Name="demo - auto-index ascii for loop.vi" Type="VI" URL="../demo - auto-index ascii for loop.vi"/>
 				<Item Name="demo - cluster intro.vi" Type="VI" URL="../demo - cluster intro.vi"/>
