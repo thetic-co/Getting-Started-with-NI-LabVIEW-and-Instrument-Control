@@ -30,6 +30,17 @@
 			</Item>
 		</Item>
 		<Item Name="Session 02" Type="Folder">
+			<Item Name="demo" Type="Folder">
+				<Property Name="NI.SortType" Type="Int">3</Property>
+				<Item Name="demo - first while loop.vi" Type="VI" URL="../demo - first while loop.vi"/>
+				<Item Name="demo - tunnel while loop.vi" Type="VI" URL="../demo - tunnel while loop.vi"/>
+				<Item Name="demo - first for loop.vi" Type="VI" URL="../demo - first for loop.vi"/>
+				<Item Name="demo - auto-index tunnel for loop.vi" Type="VI" URL="../demo - auto-index tunnel for loop.vi"/>
+				<Item Name="demo - auto-index ascii for loop.vi" Type="VI" URL="../demo - auto-index ascii for loop.vi"/>
+				<Item Name="demo - cluster intro.vi" Type="VI" URL="../demo - cluster intro.vi"/>
+				<Item Name="demo - wf chart.vi" Type="VI" URL="../demo - wf chart.vi"/>
+				<Item Name="demo - xy graph.vi" Type="VI" URL="../demo - xy graph.vi"/>
+			</Item>
 			<Item Name="solutions" Type="Folder">
 				<Item Name="homework - formula xy graph.vi" Type="VI" URL="../homework - formula xy graph.vi"/>
 			</Item>
@@ -103,6 +114,8 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Open File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Open File+.vi"/>
 				<Item Name="Read Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (DBL).vi"/>
