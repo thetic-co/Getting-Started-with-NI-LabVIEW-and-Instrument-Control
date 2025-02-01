@@ -37,6 +37,8 @@
 				<Item Name="demo - first for loop.vi" Type="VI" URL="../demo - first for loop.vi"/>
 				<Item Name="demo - auto-index tunnel for loop.vi" Type="VI" URL="../demo - auto-index tunnel for loop.vi"/>
 				<Item Name="demo - auto-index ascii for loop.vi" Type="VI" URL="../demo - auto-index ascii for loop.vi"/>
+				<Item Name="demo - pico adc continuous.vi" Type="VI" URL="../demo - pico adc continuous.vi"/>
+				<Item Name="demo - pico adc finite.vi" Type="VI" URL="../demo - pico adc finite.vi"/>
 				<Item Name="demo - cluster intro.vi" Type="VI" URL="../demo - cluster intro.vi"/>
 				<Item Name="demo - wf chart.vi" Type="VI" URL="../demo - wf chart.vi"/>
 				<Item Name="demo - xy graph.vi" Type="VI" URL="../demo - xy graph.vi"/>
@@ -48,6 +50,8 @@
 		<Item Name="Session 03" Type="Folder"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
+				<Item Name="CTI-Visa.lvlib" Type="Library" URL="/&lt;instrlib&gt;/HandsOnPi2040/cti-drivers-lv-visa-main/CTI-Visa/CTI-Visa.lvlib"/>
+				<Item Name="HandsOnPi2040.lvlib" Type="Library" URL="/&lt;instrlib&gt;/HandsOnPi2040/HandsOnPi2040.lvlib"/>
 				<Item Name="niScope Actual Num Wfms.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Utility/niScope Actual Num Wfms.vi"/>
 				<Item Name="niScope Actual Record Length.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Horizontal/niScope Actual Record Length.vi"/>
 				<Item Name="niScope Close.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/niScope Close.vi"/>
@@ -98,6 +102,7 @@
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
 				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
 				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
