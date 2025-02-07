@@ -46,6 +46,8 @@
 				<Item Name="demo - xy graph.vi" Type="VI" URL="../demo - xy graph.vi"/>
 			</Item>
 			<Item Name="solutions" Type="Folder">
+				<Property Name="NI.SortType" Type="Int">3</Property>
+				<Item Name="homework - wf chart with running average.vi" Type="VI" URL="../homework - wf chart with running average.vi"/>
 				<Item Name="homework - formula xy graph.vi" Type="VI" URL="../homework - formula xy graph.vi"/>
 			</Item>
 		</Item>
