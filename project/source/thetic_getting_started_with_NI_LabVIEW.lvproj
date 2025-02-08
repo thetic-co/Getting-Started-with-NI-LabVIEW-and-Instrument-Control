@@ -53,8 +53,10 @@
 		</Item>
 		<Item Name="Session 03" Type="Folder">
 			<Item Name="demo" Type="Folder">
+				<Property Name="NI.SortType" Type="Int">3</Property>
 				<Item Name="demo - long bad VI.vi" Type="VI" URL="../demo - long bad VI.vi"/>
 				<Item Name="FSM - template by thetic.vi" Type="VI" URL="../FSM - template by thetic.vi"/>
+				<Item Name="demo - FSM automated test.vi" Type="VI" URL="../demo - FSM automated test.vi"/>
 			</Item>
 			<Item Name="solutions" Type="Folder">
 				<Item Name="homework - wf chart with running average and fileIO.vi" Type="VI" URL="../homework - wf chart with running average and fileIO.vi"/>
