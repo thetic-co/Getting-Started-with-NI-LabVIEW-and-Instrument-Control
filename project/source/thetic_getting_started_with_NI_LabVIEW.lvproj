@@ -315,7 +315,6 @@
 			<Item Name="niScope_32.dll" Type="Document" URL="niScope_32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="typedef - Serial Settings.ctl" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2024/examples/Instrument IO/Serial/support/typedef - Serial Settings.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
