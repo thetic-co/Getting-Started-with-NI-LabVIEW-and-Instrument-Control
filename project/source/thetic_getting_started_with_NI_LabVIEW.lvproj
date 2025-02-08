@@ -53,7 +53,9 @@
 		</Item>
 		<Item Name="Session 03" Type="Folder">
 			<Item Name="demo" Type="Folder"/>
-			<Item Name="solutions" Type="Folder"/>
+			<Item Name="solutions" Type="Folder">
+				<Item Name="homework - wf chart with running average and fileIO.vi" Type="VI" URL="../homework - wf chart with running average and fileIO.vi"/>
+			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
