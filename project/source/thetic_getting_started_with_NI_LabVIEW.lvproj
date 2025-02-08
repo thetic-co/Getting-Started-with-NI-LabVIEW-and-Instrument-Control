@@ -51,7 +51,10 @@
 				<Item Name="homework - formula xy graph.vi" Type="VI" URL="../homework - formula xy graph.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Session 03" Type="Folder"/>
+		<Item Name="Session 03" Type="Folder">
+			<Item Name="demo" Type="Folder"/>
+			<Item Name="solutions" Type="Folder"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="CTI-Visa.lvlib" Type="Library" URL="/&lt;instrlib&gt;/HandsOnPi2040/cti-drivers-lv-visa-main/CTI-Visa/CTI-Visa.lvlib"/>
