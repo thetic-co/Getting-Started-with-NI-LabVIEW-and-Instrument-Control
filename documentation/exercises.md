@@ -64,3 +64,10 @@ Plot the following function over the domain [-10..+10]:
 ![polynomial](/resources/polynomial.png)  
 Hint: you will have to use an XY graph  
 Hint: sometimes mathematics are easier as text-based coding
+
+## Exercise 03 - 1
+
+### Selectively store the running average of data points
+
+Review your solution to Exercise 02 – 3 where you generated random numbers, averaged the last four points, and plotted the data onto a waveform chart until the Stop button was pressed.  
+Introduce a ‘record’ switch to store data points from the ‘averaged’ data into a text file when enabled.
