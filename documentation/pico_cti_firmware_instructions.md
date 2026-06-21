@@ -4,19 +4,33 @@ All course examples can be followed without purchasing hardware.  However, there
 
 ## Purchasing a Pico
 
-1. Learn more about the Raspberry Pi Pico at <https://www.raspberrypi.com/products/raspberry-pi-pico/>  
-2. Scroll to the bottom of the page to find a supplier in your region
-3. Purchase a Raspberry Pi Pico (original, not the Pico 2)
+1. Learn more about the Raspberry Pi Pico at <https://www.raspberrypi.com/products/raspberry-pi-pico/>.  
+2. Scroll to the bottom of the page to find a supplier in your region.
+3. Purchase a Raspberry Pi Pico (original, not the Pico 2).
 
 ## Preparing a Pico
 
-4. Download the CTI firmware from  [firmware](/firmware/)
-5. Unzip the contents into a folder and recognize the *.uf2 file
-6. Find a USB-A to Micro-B cable to connect the Pico to your PC
-7. Hold down the BOOTSEL button on the front of your Pico (the side with the raspberry logo) to prepare the Pico for flashing
-8. While still holding down BOOTSEL, connect your Pico to a USB port on your PC
+4. Download the CTI firmware from  [firmware](/firmware/).
+5. Unzip the contents into a folder and recognize the *.uf2 file.
+6. Find a USB-A to Micro-B cable to connect the Pico to your PC.
+7. Hold down the `BOOTSEL` button on the front of your Pico (the side with the raspberry logo) to prepare the Pico for flashing.
+8. While still holding down `BOOTSEL`, connect your Pico to a USB port on your PC.
 9. The Pico should appear as a USB drive on your PC.  Enter the drive directory.
 
 ## Flashing a Pico
 
-10. Paste the *.uf2 file directly into the Pico’s drive directory.  This will completely flash the existing firmware of the Pico and automatically reboot the device. 
+10. Paste the *.uf2 file directly into the Pico’s drive directory.  This will completely flash the existing firmware of the Pico and automatically reboot the device.  
+
+## Notes
+
+If you are unfamiliar with electronics, pins, breadboards and soldering, you may wish to purchase the Raspberry Pi Pico **WH** (**W**ith **H**eaders).  This device is pre-soldered with header pins for placing into a standard breadboard, avoiding the need for soldering.  
+
+### Additional Components
+
+You may also wish to procure the following common components in order to interact with the Raspberry Pi Pico's GPIO pins.  
+
+- 400 pin breadboard
+- 3.3 kΩ resistor
+- 3.3 μF capacitor
+- any standard LED (3.3V or 5V)  
+- jumper pin wires (male-to-male)  
