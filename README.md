@@ -17,7 +17,7 @@ This repository contains the course materials required to complete the exercises
 
 ## How to Use this Repository
 
-The default branch of this repo is `main` with the Thetic actively developing in `dev`.  To use the version of the files that matches your version of the course, see the `version` tag on your student manual and download the equivalent ZIP from the `releases` section of this repo.  For example, course `v_20250228_1` will have a corresponding release, named [20250228_1](/releases/tag/20250228_1).  
+The default branch of this repo is `main` with the Thetic actively developing in `dev`.  To use the version of the files that matches your version of the course, see the `version` tag on your student manual and download the equivalent ZIP from the `releases` section of this repo.  For example, course `v_20250228_1` will have a corresponding release, named [20250228_1](https://github.com/thetic-co/Getting-Started-with-NI-LabVIEW-and-Instrument-Control/releases/tag/20250228_1).  
 ![releases](/resources/releases.png)  
 
 ## About Thetic Engineering Ltd
