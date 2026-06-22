@@ -43,9 +43,21 @@ Consider making SubVI’s with unique icons for each modular part of your code.
 
 ## Exercise 02 - 1
 
-### Continuous random numbers to a waveform chart
+### Continuous random numbers to a Waveform Chart
 
-Generate random numbers and continuously plot them onto a waveform chart until the Stop button is pressed.  
+Generate random numbers and continuously plot them onto a Waveform Chart until the Stop button is pressed.  
+Use Quickdrop (Ctrl+Space) to find the required controls, indicators, and functions on the Front Panel and the Block Diagram.  
+
+#### Block Diagram components
+
+- Random number
+- While Loop
+- Wait Until next ms Multiple
+
+#### Front Panel
+
+- Waveform Chart (Fuse)
+- Stop button (Fuse)
 
 ## Exercise 02 - 2
 
