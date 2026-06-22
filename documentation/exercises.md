@@ -109,4 +109,5 @@ Hint: prepare all the x-values before feeding them into the function
 Review your solution to [Exercise 02 – 3](/documentation/exercises.md/#exercise-02---3) where you generated random numbers, averaged the last four points, and plotted the data onto a Waveform Chart until the Stop button was pressed.  
 Create a copy of the file and modify the code to introduce a ‘record’ switch to store data points from the ‘averaged’ data into a text file when enabled.
 The resulting text file should resemble the image below:  
+
 ![solution 03 - 01](/resources/solution_03_01.png)  
