@@ -5,7 +5,9 @@
 ### Design your first VI with pen and paper  
 
 Read a comma-separated list of values (CSV) from within a file and display them on the user interface.  For this exercise, do not program in LabVIEW.  Draw a flow diagram of steps requireed to achieve this task.  The CSV data is linked below, which a screenshot for convenience.  
+
 [Time Series Data](/project/source/timeseries.csv)  
+
 ![time series csv](/resources/timeseries.png)  
 
 ## Exercise 01 - 2
@@ -14,6 +16,7 @@ Read a comma-separated list of values (CSV) from within a file and display them 
 
 Create a new LabVIEW Project file for this course within a directory of your choice.  
 Create Virtual Folders for the 3 sessions of the course.  The final result should look similar to the image below.  
+
 ![solution 01 - 2](/resources/solution_01_02.png)
 
 ## Exercise 01 - 3
@@ -32,10 +35,11 @@ Dig deeper to see the NI-VISA code within each Sub VI.
 
 ### Displaying CSV data
 
-Review your design from Exercise 01 – 1 and implement it in LabVIEW  
+Review your design from [Exercise 01 – 1](/documentation/exercises.md/#exercise-01---1) and implement it with code in LabVIEW.  
+Use Quickdrop (Ctrl+Space) and the LabVIEW Example Finder to search for ways of reading the data from file.  
+Consider making SubVI’s with unique icons for each modular part of your code.  
+
 [Time Series Data](/project/source/timeseries.csv)  
-Use Quickdrop (Ctrl+Space) and the LabVIEW Example Finder to search for ways of reading the data from file  
-Consider making SubVI’s with unique icons for each modular part of your code  
 
 ## Exercise 02 - 1
 
