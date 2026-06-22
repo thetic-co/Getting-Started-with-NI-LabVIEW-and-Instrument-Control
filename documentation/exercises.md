@@ -93,8 +93,14 @@ Create a copy of the file and modify the code to use Shift Registers to simultan
 Plot the following function over the domain [-10..+10]:  
 
 ![polynomial](/resources/polynomial.png)  
+
+The resulting plot should resemble the following image:  
+
+![solution 02 -4 ](/resources/solution_02_04.png)  
+
 Hint: you will have to use an XY graph  
-Hint: sometimes mathematics are easier as text-based coding
+Hint: sometimes mathematics are easier as text-based coding  
+Hint: prepare all the x-values before feeding them into the function
 
 ## Exercise 03 - 1
 
