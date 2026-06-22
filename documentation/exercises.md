@@ -20,11 +20,11 @@ Create Virtual Folders for the 3 sessions of the course.  The final result shoul
 
 ### Apply drivers from the NI IDNet
 
-Identify an instrument with which you’re familiar with from work or university  
+Identify an instrument with which you’re familiar with from work or university.  
 Use the menus within LabVIEW to search for a compatible driver and install it  
-View the VI Tree of the driver
-Dig deeper to see the NI-VISA code within each Sub VI  
-(If you cannot think of an instrument, use the Agilent 34401 driver already install with LabVIEW)  
+View the VI Tree of the driver.
+Dig deeper to see the NI-VISA code within each Sub VI.  
+(If you cannot think of an instrument, use the Agilent 34401 driver which already ships with LabVIEW)  
 
 ![34401 palette](/resources/34401.png)  
 
