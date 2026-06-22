@@ -48,22 +48,34 @@ Consider making SubVI’s with unique icons for each modular part of your code.
 Generate random numbers and continuously plot them onto a Waveform Chart until the Stop button is pressed.  
 Use Quickdrop (Ctrl+Space) to find the required controls, indicators, and functions on the Front Panel and the Block Diagram.  
 
-#### Block Diagram components
+#### 02 - 1 Block Diagram components
 
 - Random number
 - While Loop
 - Wait Until next ms Multiple
 
-#### Front Panel
+#### 02 - 1 Front Panel components
 
 - Waveform Chart (Fuse)
 - Stop button (Fuse)
 
 ## Exercise 02 - 2
 
-### Finite random numbers to a waveform graph
+### Finite random numbers to a Waveform Graph
 
-Generate 100 random numbers and plot them all onto a waveform graph.  
+Generate 100 random numbers and plot them all onto a Waveform Graph.  
+Use Quickdrop (Ctrl+Space) to find the required controls, indicators, and functions on the Front Panel and the Block Diagram.  
+
+#### 02 - 2 Block Diagram components
+
+- Random number
+- For Loop
+- Wait Until next ms Multiple
+
+#### 02 -2 Front Panel components
+
+- Waveform Graph (Fuse)
+- Stop button (Fuse)
 
 ## Exercise 02 - 3
 
