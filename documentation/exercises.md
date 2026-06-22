@@ -13,7 +13,8 @@ Read a comma-separated list of values (CSV) from within a file and display them 
 ### Create a LabVIEW project for this course
 
 Create a new LabVIEW Project file for this course within a directory of your choice.  
-Create Virtual Folders for the 3 sessions of the course
+Create Virtual Folders for the 3 sessions of the course.  The final result should look similar to the image below.  
+![solution 01 - 2](/resources/solution_01_02.png)
 
 ## Exercise 01 - 3
 
