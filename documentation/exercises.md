@@ -4,7 +4,7 @@
 
 ### Design your first VI with pen and paper  
 
-Read a comma-separated list of values (CSV) from within a file and display them on the user interface.  
+Read a comma-separated list of values (CSV) from within a file and display them on the user interface.  For this exercise, do not program in LabVIEW.  Draw a flow diagram of steps requireed to achieve this task.  The CSV data is linked below, which a screenshot for convenience.  
 [Time Series Data](/project/source/timeseries.csv)  
 ![time series csv](/resources/timeseries.png)  
 
