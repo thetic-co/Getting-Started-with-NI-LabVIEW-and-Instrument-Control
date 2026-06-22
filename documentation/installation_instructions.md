@@ -2,11 +2,11 @@
 
 ## Installing NI LabVIEW Community Edition
 
-If you already have access to a commercial LabVIEW license, you may skip this step, provided that your installed version of LabVIEW 2022Q3, or greater,‘Full’ or ‘Pro’ license.
+If you already have access to a commercial LabVIEW license, you may skip this step, provided that your installed version is LabVIEW 2024Q3, or greater, with a ‘Full’ or ‘Pro’ license.
 
 ### NI LabVIEW Community Edition
 
-For non-commercial personal projects and individual learning, such as the course, NI releases a Community Edition of LabVIEW.  It has all of the capabilities found in the LabVIEW Professional Editions.  It is important to note that you cannot continue to use your LabVIEW Community Edition license in a commercial or Academic Research environment and must switch to a professional license.
+For non-commercial personal projects and individual learning, such as this course, NI releases a Community Edition of LabVIEW.  It has all of the capabilities found in the LabVIEW Professional Edition.  It is important to note that you cannot continue to use your LabVIEW Community Edition license in a commercial or Academic Research environment and must switch to a professional license to remain compliant with the [NI LabVIEW End-User License Agreement (EULA)](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z0000019X3KSAU&l=en-GB)  
 
 #### Download instructions
 
@@ -16,8 +16,8 @@ a. ![screenshot 1](/resources/screen01.png)
 3. Select LabVIEW Community Edition from the drop-down  
 a. ![screenshot 2](/resources/screen02.png)
 4. From the LabVIEW download page, select your OS from the Supported OS drop-down
-5. From the Version drop-down, select 2024 Q3
-6. From Included Editions radio buttons, select Community
+5. From the Version drop-down, select 2024 Q3, or greater
+6. From the Included Editions radio buttons, select Community
 7. If you’re not already logged into the site, click Log in to download  
 a. ![screenshot 3](/resources/screen03.png)
 
@@ -31,7 +31,7 @@ a. ![screenshot 4](/resources/screen04.png)
 #### Installation instructions
 
 1. Locate the downloaded ISO file in your Downloads directory
-2. Right-click the ISO file and select Mount…
+2. Right-click the ISO file and select `Mount…`
 3. Windows 10, or greater, enter the simulated DVD drive with the contents of the ISO file
 4. Double-click the file Install.exe  
 a. ![screenshot 5](/resources/screen05.png)
@@ -47,18 +47,19 @@ a. ![screenshot 5](/resources/screen05.png)
 
 Drivers are used to communicate with hardware or to simulate different classes of hardware.  The following drivers must be installed to load certain LabVIEW examples.
 
-| Driver   | Version   |
-| :------- | :-------- |
-| NI-VISA  | 2024 Q3   |
-| NI-DAQmx | 2024 Q3.1 |
-| NI-Scope | 2024 Q3   |
+| Driver    | Minimum Version |
+| :-------- | :-------------- |
+| NI-VISA   | 2024 Q3         |
+| NI-Serial | 2024 Q3         |
+| NI-DAQmx  | 2024 Q3.1       |
+| NI-Scope  | 2024 Q3         |
 
 ### Installing NI Drivers
 
 1. From the Start menu, launch NI Package Manager
-2. In the search box, type ni visa
-3. Select NI-VISA from the results
-4. From the Version drop down, select the version from the table above
+2. In the search box, type `ni visa`
+3. Select `NI-VISA` from the results
+4. From the `Version` drop down, select the version from the table above, or later
 5. Click INSTALL  
 a. ![screenshot 6](/resources/screen06.png)
 6. Allow the defaults and install the driver
