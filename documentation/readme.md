@@ -4,9 +4,9 @@ This folder contains documentation and instructions for the course Getting Start
 
 ## Content
 
-| Document                          | Purpose                                                                                          |
-| --------------------------------- | ------------------------------------------------------------------------------------------------ |
-| exercises.md                      | Course exercises and homework for developing LabVIEW skills                                      |
-| installation_instructions.md      | Instructions for downloading and installing LabVIEW and drivers that support the course material |
-| pico_cti_firmware_instructions.md | Instructions for preparing the OPTIONAL Raspberry Pi Pico for use with the course exercises      |
-|                                   |                                                                                                  |
+| Document                                                                              | Purpose                                                                                          |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [exercises.md](/documentation/exercises.md)                                           | Course exercises and homework for developing LabVIEW skills                                      |
+| [installation_instructions.md](/documentation/installation_instructions.md)           | Instructions for downloading and installing LabVIEW and drivers that support the course material |
+| [pico_cti_firmware_instructions.md](/documentation/pico_cti_firmware_instructions.md) | Instructions for preparing the OPTIONAL Raspberry Pi Pico for use with the course exercises      |
+|                                                                                       |                                                                                                  |
