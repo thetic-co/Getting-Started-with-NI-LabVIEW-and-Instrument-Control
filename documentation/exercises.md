@@ -1,5 +1,7 @@
 # Exercises - Getting Started with NI LabVIEW and Instrument Control
 
+It is expected that a new `*.vi` is created for each exercise.  The file must be saved at the end of the exercise with a suitable name that can be recalled later in the course.  Where you are asked to reuse a solution from an earlier exercise, use the `Save As...` feature to make a copy with a new name.  
+
 ## Exercise 01 - 1
 
 ### Design your first VI with pen and paper  
@@ -72,7 +74,7 @@ Use Quickdrop (Ctrl+Space) to find the required controls, indicators, and functi
 - For Loop
 - Wait Until next ms Multiple
 
-#### 02 -2 Front Panel components
+#### 02 - 2 Front Panel components
 
 - Waveform Graph (Fuse)
 - Stop button (Fuse)
@@ -81,8 +83,8 @@ Use Quickdrop (Ctrl+Space) to find the required controls, indicators, and functi
 
 ### Running average of data points
 
-Review your solution to Exercise 02 – 1 where you generated random numbers and continuously plotted them onto a waveform chart until the Stop button was pressed.  
-Use Shift registers to simultaneously plot a running average of the most recent 4 data points.  
+Review your solution to [Exercise 02 – 1](/documentation/exercises.md/#exercise-02---1) where you generated random numbers and continuously plotted them onto a Waveform Chart until the Stop button was pressed.  
+Create a copy of the file and modify the code to use Shift Registers to simultaneously plot a running average of the most recent 4 data points.  
 
 ## Exercise 02 - 4
 
