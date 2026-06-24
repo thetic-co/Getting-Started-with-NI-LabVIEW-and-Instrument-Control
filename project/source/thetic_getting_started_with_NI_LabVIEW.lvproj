@@ -14,6 +14,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="install_me" Type="Folder">
+			<Item Name="cti_lib_cti_visa_drivers-0.2.3.5.vip" Type="Document" URL="../install_me/cti_lib_cti_visa_drivers-0.2.3.5.vip"/>
+			<Item Name="readme.md" Type="Document" URL="../install_me/readme.md"/>
+		</Item>
 		<Item Name="Session 01" Type="Folder">
 			<Item Name="demo" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">3</Property>
