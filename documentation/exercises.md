@@ -61,6 +61,20 @@ Use Quickdrop (Ctrl+Space) to find the required controls, indicators, and functi
 - Waveform Chart (Fuse)
 - Stop button (Fuse)
 
+## Exercise 02 - 1 (optional)
+
+### Continuous Analog Input to a Waveform Chart
+
+Modify the exercise to capture samples from `ADC0 - GPIO 26 - Pin 31` on the CTI Pico and continuously plot them onto a Waveform Chart until the Stop button is pressed.  
+Use Quickdrop (Ctrl+Space) to find the required controls, indicators, and functions on the Front Panel and the Block Diagram.  
+
+#### 02 - 1 (optional) Block Diagram components
+
+- Configure Serial.vi
+- Enable Analog Input.vi
+- Read Analog Input.vi
+- VISA Close
+
 ## Exercise 02 - 2
 
 ### Finite random numbers to a Waveform Graph
@@ -78,6 +92,20 @@ Use Quickdrop (Ctrl+Space) to find the required controls, indicators, and functi
 
 - Waveform Graph (Fuse)
 - Stop button (Fuse)
+
+## Exercise 02 - 2 (optional)
+
+### Finite Analog Input to a Waveform Graph
+
+Modify the exercise to capture 100 samples from `ADC0 - GPIO 26 - Pin 31` on the CTI Pico and plot them all  onto a Waveform Graph.  
+Use Quickdrop (Ctrl+Space) to find the required controls, indicators, and functions on the Front Panel and the Block Diagram.  
+
+#### 02 - 2 (optional) Block Diagram components
+
+- Configure Serial.vi
+- Enable Analog Input.vi
+- Read Analog Input.vi
+- VISA Close
 
 ## Exercise 02 - 3
 

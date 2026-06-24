@@ -14,6 +14,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="install_me" Type="Folder">
+			<Item Name="cti_lib_cti_visa_drivers-0.2.3.5.vip" Type="Document" URL="../install_me/cti_lib_cti_visa_drivers-0.2.3.5.vip"/>
+			<Item Name="readme.md" Type="Document" URL="../install_me/readme.md"/>
+		</Item>
 		<Item Name="Session 01" Type="Folder">
 			<Item Name="demo" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">3</Property>
@@ -52,6 +56,7 @@
 				<Property Name="NI.SortType" Type="Int">3</Property>
 				<Item Name="homework - wf chart with running average.vi" Type="VI" URL="../homework - wf chart with running average.vi"/>
 				<Item Name="homework - formula xy graph.vi" Type="VI" URL="../homework - formula xy graph.vi"/>
+				<Item Name="homework - pico pwm with adc continuous.vi" Type="VI" URL="../homework - pico pwm with adc continuous.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Session 03" Type="Folder">

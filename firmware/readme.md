@@ -4,10 +4,11 @@ See the instructions on how to apply this firmware in the [documentation](/docum
 
 ## Versions
 
-| Version | Filename             |
-| ------- | -------------------- |
-| 0.2.3   | course v_202502258_1 |
-| 0.9.2   | course `latest`      |
+| Version | Filename              |
+| ------- | --------------------- |
+| 0.2.3   | course `v_20250228_1` |
+| 0.2.3   | course `v_20260611_1` |
+| 0.9.2   | course `latest`       |
 
 ## Acknowledgements
 
