@@ -56,6 +56,7 @@
 				<Property Name="NI.SortType" Type="Int">3</Property>
 				<Item Name="homework - wf chart with running average.vi" Type="VI" URL="../homework - wf chart with running average.vi"/>
 				<Item Name="homework - formula xy graph.vi" Type="VI" URL="../homework - formula xy graph.vi"/>
+				<Item Name="homework - pico pwm with adc continuous.vi" Type="VI" URL="../homework - pico pwm with adc continuous.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Session 03" Type="Folder">
