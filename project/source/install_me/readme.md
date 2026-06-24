@@ -10,5 +10,4 @@ The following package(s) are required only when working with the CTI Pico VISA s
 
 ## Acknowledgements
 
-Provided under MIT license 
-[LabVIEWCommunityTraining](https://github.com/LabVIEWCommunityTraining/cti-drivers-lv-visa/releases)
+Provided under MIT license [LabVIEWCommunityTraining](https://github.com/LabVIEWCommunityTraining/cti-drivers-lv-visa/releases)

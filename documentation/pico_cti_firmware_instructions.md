@@ -34,3 +34,7 @@ You may also wish to procure the following common components in order to interac
 - 3.3 μF capacitor
 - any standard LED (3.3V or 5V)  
 - jumper pin wires (male-to-male)  
+
+## Software Support
+
+Pre-made LabVIEW functions can be installed to support examples and exercises.  The install package can be found within the LabVIEW project under the [install_me](/project/source/install_me/) section.  
